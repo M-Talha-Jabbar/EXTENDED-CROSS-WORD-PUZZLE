@@ -1,8 +1,5 @@
 # Extended Crossword Puzzle 
-This project is implementation of a well known Crossword Puzzle Game. The user will be asked to solve the crossword puzzle under a particular time period and the score will be generated afterwards. The difficulty of the game will be dependent on the level chosen by the user. Meanings of the word found will also be shown to the user.
-
-# Aim
-Useful for learning new words and building vocabulary.
+This project is implementation of a well-known Crossword Puzzle Game. The user will be asked to solve the crossword puzzle under a particular time period and the score will be generated afterwards. The difficulty of the game will be dependent on the level chosen by the user. Meanings of the word found will also be shown to the user.
 
 # Methodology
 The data structure used are Trees(non-linear data structure) and Stack(linear data structure) plus backtracking algorithm to find the specific word input by user in the puzzle. In
