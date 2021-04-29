@@ -9,8 +9,8 @@ The data structure used are Trees(non-linear data structure) and Stack(linear da
 addition to this Filing is used and have implemented one of the OS concepts known as Multithreading.
 
 ## Trees
-**AVL Tree:** For tracking that user do not re-enter the same word twice and get the points.
-**Red-Black Tree:** For storing the dictionary and quick access to the meaning of the word found in the puzzle by the user.
+1) **AVL Tree:** For tracking that user do not re-enter the same word twice and get the points.
+2) **Red-Black Tree:** For storing the dictionary and quick access to the meaning of the word found in the puzzle by the user.
 
 ## Backtracking
 For finding the word in the puzzle enter by the user in all 8 directions (right, left, down, up, left-upper diagonal, leftlower diagonal, right-upper diagonal, right-lower diagonal).
