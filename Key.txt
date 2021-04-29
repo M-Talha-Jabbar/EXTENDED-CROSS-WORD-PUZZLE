@@ -1,0 +1,42 @@
+DOG   // Med 1
+CAT 
+FISH
+BIRD
+
+SPOON   //Med 2
+KNIFE
+PLATE
+
+LEAF   //Med 3
+FOREST
+TREE
+CAR
+
+PIE   //Med 4
+BERRY
+LEMON
+DATE
+
+DROW   // easy 1
+FUN
+WIN
+WORD
+
+OIL   // easy 2
+PAN
+OVEN
+
+RED   // easy 3
+BLUE
+
+GARLIC // hard 1
+BEAN
+FARM
+GOURD
+
+WILLOW   // hard 2
+WALNUT
+APPLE
+CYPRESS
+PALM
+HEMLOCK
